@@ -19,6 +19,8 @@ gem "puma", "~> 5.0"
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'sass-rails', '>= 3.2'
 
+gem 'bootstrap_form'
+
 gem 'jquery-rails'
 
 gem 'devise'
